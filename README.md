@@ -6,8 +6,8 @@
   Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-plthon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/plthon/)](https://www.linkedin.com/in/plthon/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/plthon?label=follow&style=social)](https://github.com/plthon)
+[![Linkedin: plthon](https://img.shields.io/badge/-plthon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/plthon/)](https://www.linkedin.com/in/plthon/)
+[![GitHub plthon](https://img.shields.io/github/followers/plthon?label=follow&style=social)](https://github.com/plthon)
 
 <!--
 **plthon/plthon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
