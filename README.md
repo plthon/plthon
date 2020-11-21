@@ -1,7 +1,7 @@
 <h2> Hi, I'm Benji! </h2>
 
 <p>
-  <em>Student at <a href="https://www.swinburne.edu.my/">Swinburne University of Technology, Sarawak</a>.
+  <em>Data Science Student at <a href="https://www.swinburne.edu.my/">Swinburne University of Technology, Sarawak</a>.
   </br>
   Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
