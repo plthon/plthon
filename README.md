@@ -1,9 +1,11 @@
-<h2> Hi, I'm Benji! </h2>
+<h2> Hi, I'm Benji! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h2>
 
 <p>
   <em>Data Science Student at <a href="https://www.swinburne.edu.my/">Swinburne University of Technology, Sarawak</a>.
   </br>
-  Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Freelancer
+  </br>
+  
 </em></p>
 
 [![Linkedin: plthon](https://img.shields.io/badge/-plthon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/plthon/)](https://www.linkedin.com/in/plthon/)
