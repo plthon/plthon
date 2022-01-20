@@ -8,7 +8,7 @@
 [![Kaggle: plthon](https://img.shields.io/badge/-plthon-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/plthon)](https://www.kaggle.com/plthon)
 -->
 
-working on a research project... btw check my [site](plthon.github.io).
+working on a research project... btw check my [site](http://plthon.github.io/).
 
 <!--
 <p>
